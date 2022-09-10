@@ -35,7 +35,15 @@ Have fun!
 
 ## Screenshot
 
+**Telegram bot**
 ![screenshot-ea](https://user-images.githubusercontent.com/55086588/184531655-012d75dc-737d-4f18-ba5e-4260ae57fb72.png)
+
+**Winrate matrix at each TP-SL**
+![image](https://user-images.githubusercontent.com/55086588/189494554-3d22a198-1e2d-4ba0-abc7-e1d5284ed092.png)
+
+**Trade result matrix**
+![image](https://user-images.githubusercontent.com/55086588/189494536-87d7d742-d11d-4885-abde-79a73c3f26a3.png)
+
 
 
 ## About Telegram API
